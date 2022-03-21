@@ -1,0 +1,36 @@
+name: geocomp
+channels:
+- conda-forge
+- defaults
+dependencies:
+- python=3.9
+- pip
+- numpy>=1.20
+- scipy>=1.8
+- matplotlib>=3.5
+- jupyter
+- jupyterlab
+- ipykernel
+- ipywidgets
+- pandas>=1.4
+- openpyxl>=3.0
+- geopandas
+- scikit-learn>=1.0
+- pillow>=8.1
+- h5py
+- seaborn>=0.11
+- pint
+- cartopy>=0.20
+- xarray>=0.20
+- requests
+- tqdm
+- pooch
+- pip:
+  - bruges>=0.5
+  - welly>=0.5
+  - wellpathpy
+  - segyio
+  - dlisio
+  - segysak
+  - python-certifi-win32
+  - gio
