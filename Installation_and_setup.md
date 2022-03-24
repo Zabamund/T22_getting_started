@@ -26,20 +26,6 @@ Note: Navigate to python.org, select the Download option, and then choose the op
 
 [Miniconda Installer Links](https://docs.conda.io/en/latest/miniconda.html#latest-miniconda-installer-links)
 
-Note: [Anaconda or miniconda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/download.html#anaconda-or-miniconda)
-
-Choose Anaconda if you:
-- Are new to conda or Python.
-- Like the convenience of having Python and over 1,500 scientific packages automatically installed at once.
-- Have the time and disk space---a few minutes and 3 GB.
-- Do not want to individually install each of the packages you want to use.
-- Wish to use a set of packages curated and vetted for interoperability and usability.
-
-Choose Miniconda if you:
-- Do not mind installing each of the packages you want to use individually.
-- Do not have time or disk space to install over 1,500 packages at once.
-- Want fast access to Python and the conda commands and you wish to sort out the other programs later.
-
 ----
 
 ### Anaconda
@@ -49,7 +35,20 @@ Choose Miniconda if you:
 
 [Anaconda Individual Edition](https://www.anaconda.com/products/individual)
 
-Note: For enterprise editions, see [pricing](https://www.anaconda.com/pricing)
+Note: [Anaconda or miniconda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/download.html#anaconda-or-miniconda)
+
+Choose Anaconda if you:
+- Are new to conda or Python.
+- Like the convenience of having Python and over 1,500 scientific packages automatically installed at once.
+- Have the time and disk space---a few minutes and 3 GB.
+- Do not want to individually install each of the packages you want to use.
+- Wish to use a set of packages curated and vetted for interoperability and usability.
+- But beware, for enterprise editions, see [pricing](https://www.anaconda.com/pricing)
+
+Choose Miniconda if you:
+- Do not mind installing each of the packages you want to use individually.
+- Do not have time or disk space to install over 1,500 packages at once.
+- Want fast access to Python and the conda commands and you wish to sort out the other programs later.
 
 ----
 
@@ -163,36 +162,27 @@ Note: It doesn't matter which you choose, as long as it works for you!
 
 ---
 
-## Running python from the command line
+## Running python
+
+Python is a program installed on your computer, and as such it can be run in different ways, e.g.:
+- from the command line (CLI)
+- as a script on the CLI
+- in a jupyter notebook/binder/colab/etc
+
+Note: we run python from the CLI either
+(1) as a simple code editor for example to quickly check out a python feature or
+(2) as a script runner where we invoke python from the CLI but pass a python script to it to execute or
+(3) in a notebook-like environment
 
 ----
 
-### What is the command line?
+### What is the command line (CLI)?
 
-----
-
-### When to run python from the CLI
-
-----
-
-### How to run python from the CLI
-
-----
-
-#### Simple code editor
-
-----
-
-#### Powerful script runner
+> A command-line interface (CLI) processes commands to a computer program in the form of lines of text. [source](https://en.wikipedia.org/wiki/Command-line_interface)
 
 ---
 
 ## Running python from jupyter notebook
-
----
-
-## Jupyter notebook, lab, text editors
-
 
 ---
 
