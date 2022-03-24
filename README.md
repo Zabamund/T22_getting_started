@@ -8,26 +8,22 @@ A short introduction to get you started in the world of Python.
 ## Contents
 
 - Getting python setup on your computer
-  - Using miniconda
-  - Using anaconda
+  - python
+  - miniconda
+  - anaconda
   - A note on using different operating systems
 - Creating a coding environment
-  - Using venv, virtualenv or conda (there are many other options)
-  - Installing jupyter
-  - Installing a typical geoscience tool set
+  - conda, pyenv, virtualenv
+  - Setting up an environment
+  - jupyter
+  - Basic geoscience tool set
 - Choosing a text editor
-  - Using the inbuilt jupyter text editor
-  - Using VSCode, VSCodium, Atom, SublimeText
-  - Old school editors (vi, vim, nano, emacs)
-- Running python from the command line
-  - What is the command line?
-  - When to run python from the CLI
-  - How to run python from the CLI
-    - simple code editor
-    - powerful script runner
-- Running python from jupyter notebook
-  - A note on using jupyter notebook, jupyter lab or a text editor
-- Introduction to Python!
+  - jupyter
+  - VSCode, Atom, Sublime Text
+  - vi, vim, nano, emacs
+- Running python
+  - What is the command line (CLI)?
+- NEXT: intro to python notebook!
   - Things you already know:
     - mathematical operators
     - logical operators
