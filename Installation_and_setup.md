@@ -170,9 +170,9 @@ Python is a program installed on your computer, and as such it can be run in dif
 - in a jupyter notebook/binder/colab/etc
 
 Note: we run python from the CLI either
-(1) as a simple code editor for example to quickly check out a python feature or
-(2) as a script runner where we invoke python from the CLI but pass a python script to it to execute or
-(3) in a notebook-like environment
+- (1) as a simple code editor for example to quickly check out a python feature or
+- (2) as a script runner where we invoke python from the CLI but pass a python script to it to execute or
+- (3) in a notebook-like environment
 
 ----
 
