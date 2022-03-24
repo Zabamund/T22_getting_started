@@ -182,8 +182,4 @@ Note: we run python from the CLI either
 
 ---
 
-## Running python from jupyter notebook
-
----
-
-# NEXT: intro to python notebook!
+## NEXT: intro to python notebook!
