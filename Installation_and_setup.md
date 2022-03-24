@@ -124,17 +124,42 @@ Note: Open `./environment.yml` inside the jupyter notebook.
 
 ## Choosing a text editor
 
+To write code, well, you're going to need to _write_ code! And because python can be quite particular about formatting, you'll need a text editor.
+
 ----
 
 ### Jupyter
+
+The [jupyter project](https://jupyter.org/) provides the `jupyter notebook` environment:
+
+<img src="./images/jupyter_notebook.png" alt="the jupyter notebook" height="400">
+
+Note: We'll see this soon, but in here we can write formatted text, code, and have code outputs.
 
 ----
 
 ### VSCode, Atom, Sublime Text
 
+- [vscode](https://code.visualstudio.com/): Code editing.
+Redefined.
+- [vscodium](https://vscodium.com/): Open Source Binaries of VS Code
+- [Atom](https://atom.io/): A hackable text editor for the 21st Century
+- [Sublime Text](https://www.sublimetext.com/): Text Editing, Done Right (but not free)
+
+Note: It doesn't matter which you choose, as long as it works for you!
+
 ----
 
 ### vi, vim, nano, emacs
+
+The old school approach, but still totally valid:
+
+- [vi](http://ex-vi.sourceforge.net/)
+- [vim](https://www.vim.org/)
+- [nano](https://www.nano-editor.org/)
+- [emacs](https://www.gnu.org/software/emacs/)
+
+Note: It doesn't matter which you choose, as long as it works for you!
 
 ---
 
