@@ -73,8 +73,8 @@ We'll use [`conda`](https://conda.io/projects/conda/en/latest/user-guide/tasks/m
 
 ### Setting up an environment (1/2)
 
-1. Click on this link and leave the file in your Downloads folder: 
-[UPDATE THIS link: T22_getting_started/environment.yml](https://github.com/Zabamund/T22_getting_started/environment.yml)
+1. Click on this link and leave the file in your Downloads folder:
+[T22_getting_started/environment.yml](https://github.com/Zabamund/T22_getting_started/blob/master/environment.yml)
 
 2. Open an Anaconda Prompt from the Start menu, and type the following (all one line!):
 
@@ -90,7 +90,7 @@ Note: For Mac and Linux users, simply save the `environment.yml` file in your Do
 
 `conda activate geocomp`
 
-4. Now one more step to get access to this environment from inside Jupyter (all one line again!): 
+4. Now one more step to get access to this environment from inside Jupyter (all one line again!):
 
 `python -m ipykernel install --user --name geocomp`
 
