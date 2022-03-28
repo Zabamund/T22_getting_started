@@ -1,36 +1,21 @@
-name: geocomp
+name: geocomp       # Simply the name of our environment, choose something short and meaningful
 channels:
-- conda-forge
+- conda-forge       # this is where the conda packages will be fetched from
 - defaults
 dependencies:
 - python=3.9
-- pip
-- numpy>=1.20
-- scipy>=1.8
-- matplotlib>=3.5
-- jupyter
-- jupyterlab
-- ipykernel
-- ipywidgets
-- pandas>=1.4
-- openpyxl>=3.0
-- geopandas
-- scikit-learn>=1.0
-- pillow>=8.1
-- h5py
-- seaborn>=0.11
-- pint
-- cartopy>=0.20
-- xarray>=0.20
-- requests
-- tqdm
-- pooch
-- pip:
-  - bruges>=0.5
-  - welly>=0.5
-  - wellpathpy
-  - segyio
-  - dlisio
-  - segysak
-  - python-certifi-win32
-  - gio
+- pip               # we add pip to be able to use the pypi
+- numpy>=1.20       # for all numeric python
+- matplotlib>=3.5   # for basic plotting
+- jupyter           # our chosen coding environment
+- ipykernel         # we need this to make the conda env available to jupyter
+- pandas>=1.4       # for all data wrangling needs
+- openpyxl>=3.0     # to be able to open xls file with pandas
+- requests          # to use python to query webpages
+- pip:              # these packages come from the python package index (pypi)
+  - bruges>=0.5     # geophysical tools
+  - welly>=0.5      # well log tools
+  - wellpathpy      # well deviation tools
+  - segyio          # seismic loading tools
+  - segysak         # higher level seismic loading tools
+  - gio             # file loading tools
