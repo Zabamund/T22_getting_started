@@ -1,6 +1,3 @@
-# Notes from Matt:
-> It would be pretty similar to the last one, but shorter (slots are only 2 hours). I think this time it should include all of the set-up -- install Miniconda, make an env, get going. So that would reduce the time for Python instruction of course, but you could point people at some ways to carry on learning at the end. I think it would be a nice self-contained on-ramp for people.
-
 # Transform 2022 - Getting started with Python
 
 A short introduction to get you started in the world of Python.
