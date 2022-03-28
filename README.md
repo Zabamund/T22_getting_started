@@ -24,12 +24,13 @@ A short introduction to get you started in the world of Python.
   - Things you already know:
     - mathematical operators
     - logical operators
+    - Assignment
   - Stepping sideways out of your comfort zone
     - words and collections in python (i.e. `str`, `list`, `dict`)
   - Controlling the flow
     - `if ... else`
   - Say that again?
-    - loops in python (`for`, list comprehensions, `while`)
+    - loops in python (`for`, list comprehensions)
   - An image speaks a thousand words
     - `import matplotlib.pyplot as plt`
   - Wrap it up and do it again
@@ -38,6 +39,5 @@ A short introduction to get you started in the world of Python.
   - Useful (and approachable) documentation
   - Books
   - Cheatsheets
-  - Online resources
-  - T22 tutorial (and previous Transform tutorials)
+  - Transform youtube tutorials
   - Your own awesome project!
