@@ -66,7 +66,7 @@ Writing code is an exercise in dependency management, and ideally, you want to *
 
 ### conda, pyenv, virtualenv
 
-We'll use [`conda`](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) in this tutorial but here is a [nice **Stack Overflow** discussion](https://stackoverflow.com/questions/38217545/what-is-the-difference-between-pyenv-virtualenv-anaconda) of the options at your disposal.
+We'll use [`conda`](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) in this tutorial but here is a nice [Stack Overflow](https://stackoverflow.com/questions/38217545/what-is-the-difference-between-pyenv-virtualenv-anaconda) discussion of the options at your disposal.
 
 ----
 
