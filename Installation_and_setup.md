@@ -164,12 +164,12 @@ Note: It doesn't matter which you choose, as long as it works for you!
 
 ## Running python
 
-Python is a program installed on your computer, and as such it can be run in different ways, e.g.:
-- from the command line (CLI)
-- as a script on the CLI
-- in a jupyter notebook/binder/colab/etc
+Python is a program installed on your computer, and it can be used in different ways, e.g.:
+- executing expressions and statements in an interactive session.
+- running a Python program from the operating system command-line or terminal.
+- in a Jupyter notebook, Binder instance, Google Collab, etc.
 
-Note: we run python from the CLI either
+Note: we run python from the command-line interface (CLI) either
 - (1) as a simple code editor for example to quickly check out a python feature or
 - (2) as a script runner where we invoke python from the CLI but pass a python script to it to execute or
 - (3) in a notebook-like environment
