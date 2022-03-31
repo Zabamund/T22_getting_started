@@ -165,8 +165,8 @@ Note: It doesn't matter which you choose, as long as it works for you!
 ## Running python
 
 Python is a program installed on your computer, and it can be used in different ways, e.g.:
-- executing expressions and statements in an interactive session.
-- running a Python program from the operating system command-line or terminal.
+- executing python code in an interactive session
+- running a python script directly from the operating system
 - in a Jupyter notebook, Binder instance, Google Collab, etc.
 
 Note: we run python from the command-line interface (CLI) either
