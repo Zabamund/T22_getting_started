@@ -174,12 +174,6 @@ Note: we run python from the command-line interface (CLI) either
 - (2) as a script runner where we invoke python from the CLI but pass a python script to it to execute or
 - (3) in a notebook-like environment
 
-----
-
-### What is the command line (CLI)?
-
-> A command-line interface (CLI) processes commands to a computer program in the form of lines of text. [source](https://en.wikipedia.org/wiki/Command-line_interface)
-
 ---
 
 ## NEXT: intro to python notebook!
