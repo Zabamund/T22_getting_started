@@ -79,7 +79,7 @@ We'll use [`conda`](https://conda.io/projects/conda/en/latest/user-guide/tasks/m
 
 `conda env create -f %USERPROFILE%/Downloads/environment.yml`
 
-Note: For Mac and Linux users, simply save the `environment.yml` file in your Downloads folder, navigate to that folder in your terminal emulator and run `conda env create` (it will us `environment.yml` by default)
+Note: For Mac and Linux users, simply save the `environment.yml` file in your Downloads folder, navigate to that folder in your terminal emulator and run `conda env create` (it will use `environment.yml` by default).
 
 ----
 
@@ -123,7 +123,7 @@ Note: Open `./environment.yml` inside the jupyter notebook.
 
 ## Choosing a text editor
 
-To write code, well, you're going to need to _write_ code! And because python can be quite particular about formatting, you'll need a text editor.
+To write code, well, you're going to need to _write_ code! And because Python can be quite particular about formatting, you'll need a decent text editor.
 
 ----
 
