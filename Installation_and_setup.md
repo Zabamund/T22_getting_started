@@ -87,11 +87,11 @@ Note: For Mac and Linux users, simply save the `environment.yml` file in your Do
 
 3. Hit return if it asks for confirmation. When finished, start the environment:
 
-`conda activate geocomp`
+`conda activate t22_setup`
 
 4. Now one more step to get access to this environment from inside Jupyter (all one line again!):
 
-`python -m ipykernel install --user --name geocomp`
+`python -m ipykernel install --user --name t22_setup`
 
 ----
 

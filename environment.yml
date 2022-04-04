@@ -1,4 +1,4 @@
-name: geocomp       # Simply the name of our environment, choose something short and meaningful
+name: t22_setup       # Simply the name of our environment, choose something short and meaningful
 channels:
 - conda-forge       # this is where the conda packages will be fetched from
 - defaults
