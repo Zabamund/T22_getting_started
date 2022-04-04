@@ -58,9 +58,13 @@ Python is **platform independant**, you can install it on Windows, Mac or GNU/Li
 
 ---
 
-## Creating a coding environment
+## The need for a coding environment
 
-Writing code is an exercise in dependency management, and ideally, you want to *delegate* that task to an environment manager. That is, a program that will check through all the installed packages (tools) you've installed and make sure all the versions are compatible.
+<img src="./images/F3_plot.png" alt="the big plot" height="500">
+
+Note: To create this plot, we need to load data of different types (logs, maps, seismic), we then need to manipulate the data efficiently, and finally we need to plot it, for all this we use welly, numpy, matplotlib, and each have some dependencies.
+
+We want to *delegate* the dependency management to a program, an environment manager. That is, a program that will check through all the installed packages (tools) you've installed and make sure all the versions are compatible.
 
 ----
 
