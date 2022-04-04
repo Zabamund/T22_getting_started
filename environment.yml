@@ -5,16 +5,16 @@ channels:
 dependencies:
 - python=3.9
 - pip               # we add pip to be able to use the pypi
-- numpy>=1.20       # for all numeric python
-- matplotlib>=3.5   # for basic plotting
+- numpy             # for all numeric python
+- matplotlib        # for basic plotting
 - jupyter           # our chosen coding environment
 - ipykernel         # we need this to make the conda env available to jupyter
-- pandas>=1.4       # for all data wrangling needs
-- openpyxl>=3.0     # to be able to open xls file with pandas
+- pandas            # for all data wrangling needs
+- openpyxl          # to be able to open xls file with pandas
 - requests          # to use python to query webpages
 - pip:              # these packages come from the python package index (pypi)
-  - bruges>=0.5     # geophysical tools
-  - welly>=0.5      # well log tools
+  - bruges          # geophysical tools
+  - welly           # well log tools
   - wellpathpy      # well deviation tools
   - segyio          # seismic loading tools
   - segysak         # higher level seismic loading tools
