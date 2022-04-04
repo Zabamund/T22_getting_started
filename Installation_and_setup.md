@@ -121,7 +121,7 @@ Let's open
 
 to see what we installed.
 
-Note: Open `./environment.yml` inside the jupyter notebook.
+Note: Open `./environment.yml` inside the Jupyter notebook.
 
 ---
 
@@ -166,18 +166,18 @@ Note: It doesn't matter which you choose, as long as it works for you!
 
 ---
 
-## Running python
+## Running Python
 
 Python is a program installed on your computer, and it can be used in different ways, e.g.:
-- executing python code in an interactive session
-- running a python script directly from the operating system
+- executing Python code in an interactive session
+- running a Python script directly from the operating system
 - in a Jupyter notebook, Binder instance, Google Collab, etc.
 
-Note: we run python from the command-line interface (CLI) either
-- (1) as a simple code editor for example to quickly check out a python feature or
-- (2) as a script runner where we invoke python from the CLI but pass a python script to it to execute or
+Note: we run Python from the command-line interface (CLI) either
+- (1) as a simple code editor for example to quickly check out a Python feature or
+- (2) as a script runner where we invoke Python from the CLI but pass a Python script to it to execute or
 - (3) in a notebook-like environment
 
 ---
 
-## NEXT: intro to python notebook!
+## NEXT: intro to Python notebook!
