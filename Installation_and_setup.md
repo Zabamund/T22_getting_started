@@ -99,6 +99,20 @@ Note: For Mac and Linux users, simply save the `environment.yml` file in your Do
 
 ----
 
+### Adding to an environment
+
+`t22_setup` is a bare-bones environment, you can add a `<package>` to it by running:
+
+- `conda activate t22_setup`
+
+- `conda install <package>`
+
+- `pip install <package>`
+
+Note: The environment must be activated before installing new packages, install first from conda if the package is available there, then from pip if not. Unless the devs suggest otherwise.
+
+----
+
 ### jupyter
 
 To start coding, run:
