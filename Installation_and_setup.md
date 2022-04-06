@@ -185,7 +185,7 @@ Note: It doesn't matter which you choose, as long as it works for you!
 Python is a program installed on your computer, and it can be used in different ways, e.g.:
 - executing Python code in an interactive session
 - running a Python script directly from the operating system
-- in a Jupyter notebook, Binder instance, Google Collab, etc.
+- in a Jupyter notebook, Binder instance, Google Colab, etc.
 
 Note: we run Python from the command-line interface (CLI) either
 - (1) as a simple code editor for example to quickly check out a Python feature or
