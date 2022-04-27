@@ -2,6 +2,11 @@
 
 A short introduction to get you started in the world of Python.
 
+This repo was created to contribute an introductory session to Transform 2022.
+
+The [video](https://www.youtube.com/watch?v=wF9ZlPOCwIc) can be found on YouTube.
+All information about Transform can be found at https://transform.softwareunderground.org/overview
+
 ## Contents
 
 - Getting python setup on your computer
